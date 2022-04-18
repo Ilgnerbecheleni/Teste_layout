@@ -1,0 +1,46 @@
+header {
+    background-color: red;
+    position: absolute;
+    height: 100%;
+    width: 25%;
+}
+
+.header-menu {
+    background: orange;
+}
+
+header ul li {
+    list-style-type: none;
+    padding: 5px;
+    margin: 5px;
+}
+
+header a {
+    text-decoration: none;
+    margin: solid 5px white;
+    color: white;
+}
+
+main {
+    background: blue;
+    width: 70%;
+    position: relative;
+    float: right;
+}
+
+section {
+    background: pink;
+}
+
+nav {
+    background: yellow;
+}
+
+footer {
+    background: #ffab62;
+    width: 100%;
+    height: 100px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
